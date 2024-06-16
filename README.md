@@ -15,7 +15,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/aayushman-tomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aayushman-tomar" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/aayushmantomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aayushmantomar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@aayushmantomar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="aayushmantomar" height="30" width="40" /></a>
 <a href="https://discord.gg/NtJyNuhs2n" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="NtJyNuhs2n" height="30" width="40" /></a>
 </p>
 
